@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Text to Speech</string>
+    <string name="text1">Welcome to Text to Speech App</string>
+    <string name="text2">Required*</string>
+    <string name="rule">In this game you will hear a Random word from a randomly chosen Language. You can control the Speed and Pitch. Click on the Play Button to hear a new Word!!</string>
+    <string name="msg5">In which language is the pronounced word belongs to?</string>
+    <string-array name="languages">
+        <item>English</item>
+        <item>German</item>
+        <item>French</item>
+        <item>Italian</item>
+    </string-array>
+
+    <string-array name="english_words">
+        <item>Mountain</item>
+        <item>Adventure</item>
+        <item>Guitar</item>
+        <item>Whisper</item>
+        <item>Paradise</item>
+        <item>Champion</item>
+        <item>Harmony</item>
+        <item>Butterfly</item>
+        <item>Wonderful</item>
+        <item>Velocity</item>
+    </string-array>
+
+    <string-array name="german_words">
+        <item>Berg</item>
+        <item>Abenteuer</item>
+        <item>Gitarre</item>
+        <item>Flüstern</item>
+        <item>Paradies</item>
+        <item>Meister</item>
+        <item>Harmonie</item>
+        <item>Schmetterling</item>
+        <item>Wunderbar</item>
+        <item>Geschwindigkeit</item>
+    </string-array>
+    <string-array name="italian_words">
+        <item>Montagna</item>
+        <item>Avventura</item>
+        <item>Chitarra</item>
+        <item>Sussurro</item>
+        <item>Paradiso</item>
+        <item>Campione</item>
+        <item>Armonia</item>
+        <item>Farfalla</item>
+        <item>Meraviglioso</item>
+        <item>Velocità</item>
+    </string-array>
+
+    <string-array name="french_words">
+        <item>Montagne</item>
+        <item>Aventure</item>
+        <item>Guitare</item>
+        <item>Murmure</item>
+        <item>Paradis</item>
+        <item>Champion</item>
+        <item>Harmonie</item>
+        <item>Papillon</item>
+        <item>Merveilleux</item>
+        <item>Vélocité</item>
+    </string-array>
+
+</resources>
